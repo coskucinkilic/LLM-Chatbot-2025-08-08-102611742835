@@ -1,4 +1,4 @@
-Test4 import LLM "mo:llm";
+Test5 import LLM "mo:llm";
 
 persistent actor {
   public func prompt(prompt : Text) : async Text {
